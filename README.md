@@ -82,7 +82,7 @@ The dashboard will help you discover:
 
 ## Data Source
 
-- **Dataset**: 50,000 Upwork job postings from 2024
+- **Dataset**: 50,000 Upwork job postings from 2024 - https://www.kaggle.com/datasets/asaniczka/upwork-job-postings-dataset-2024-50k-records
 - **Coverage**: Various job categories and countries
 - **Format**: Excel/CSV files with comprehensive job posting details
 
